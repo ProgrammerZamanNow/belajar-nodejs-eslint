@@ -7,7 +7,9 @@ export default [
             "src/person.js"
         ],
         "rules": {
-            "semi": "error"
+            "semi": "error",
+            "prefer-const": "error",
+            "require-await": "error"
         }
     }
 ];
