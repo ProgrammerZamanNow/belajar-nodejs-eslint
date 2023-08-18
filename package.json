@@ -8,5 +8,8 @@
   },
   "author": "Eko Kurniawan Khannedy",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
 }
